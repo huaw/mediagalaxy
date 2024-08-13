@@ -50,4 +50,3 @@ next-env.d.ts
 /src/site-config.ts
 
 certificates
-yarn.lock
